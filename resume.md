@@ -1,7 +1,15 @@
 # Daisy Friedman
 ## I'm a senior sociology major at Cal.
 
+<img width="243" alt="Screen Shot 2022-07-23 at 12 10 05 AM" src="https://user-images.githubusercontent.com/109619721/180594688-ee66c1de-5509-4602-a068-5133a5a14c29.png">
 
-![IMG_7905](https://user-images.githubusercontent.com/109619721/180594292-02ccebfa-fd66-4204-93e1-782eda58c038.jpeg)
+## Skills
+1. Adobe Creative Suite
+2. Oregon Food Handler Certified
+3. CPR Trained
 
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/109619721/180594292-02ccebfa-fd66-4204-93e1-782eda58c038.jpeg)" width=50% height=50%>
+Employer | Job Description
+------------ | -------------
+CA Great America | <ul><li>Talent Position</li><li>Halloween Haunt "Zombie"</li></ul>
+Salt & Straw | <ul><li>Ice Cream Scooper</li><li>Sales Associate</li></ul>
+Mezzo Cafe | <ul><li>Food Line Worker</li><li>Register</li><li>Barista</li></ul>
